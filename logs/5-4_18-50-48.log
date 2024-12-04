@@ -1,0 +1,48 @@
+[18:50:48.645] [INFO   ] thread main starting.
+[18:50:48.652] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[18:50:48.655] [SEVERE ] configuration file was loaded from resources directory.
+[18:50:49.599] [INFO   ] thread dealer starting.
+[18:50:49.600] [INFO   ] thread dealer starting.
+[18:50:49.601] [INFO   ] thread player0Thread starting.
+[18:50:49.601] [INFO   ] thread player1Thread starting.
+[18:50:49.723] [SEVERE ] placing card 53 in slot 8
+[18:50:49.831] [SEVERE ] placing card 75 in slot 9
+[18:50:49.939] [SEVERE ] placing card 47 in slot 2
+[18:50:50.049] [SEVERE ] placing card 9 in slot 1
+[18:50:50.158] [SEVERE ] placing card 18 in slot 7
+[18:50:50.269] [SEVERE ] placing card 44 in slot 5
+[18:50:50.380] [SEVERE ] placing card 74 in slot 3
+[18:50:50.492] [SEVERE ] placing card 68 in slot 6
+[18:50:50.602] [SEVERE ] placing card 51 in slot 4
+[18:50:50.712] [SEVERE ] placing card 24 in slot 10
+[18:50:50.819] [SEVERE ] placing card 32 in slot 0
+[18:50:50.930] [SEVERE ] placing card 20 in slot 11
+[18:50:50.949] [SEVERE ] updating countdown to 60000
+[18:50:51.957] [SEVERE ] updating countdown to 59000
+[18:50:52.965] [SEVERE ] updating countdown to 58000
+[18:50:53.316] [SEVERE ] key 81 was pressed by player 1
+[18:50:53.316] [SEVERE ] player 1 placing token on slot 0
+[18:50:53.442] [SEVERE ] key 87 was pressed by player 1
+[18:50:53.442] [SEVERE ] player 1 placing token on slot 1
+[18:50:53.552] [SEVERE ] key 69 was pressed by player 1
+[18:50:53.553] [SEVERE ] player 1 placing token on slot 2
+[18:50:53.965] [SEVERE ] updating countdown to 57000
+[18:50:54.969] [SEVERE ] updating countdown to 56000
+[18:50:55.974] [SEVERE ] updating countdown to 55000
+[18:50:56.975] [SEVERE ] updating countdown to 54000
+[18:50:57.977] [SEVERE ] updating countdown to 53000
+[18:50:58.991] [SEVERE ] updating countdown to 52000
+[18:51:00.007] [SEVERE ] updating countdown to 51000
+[18:51:01.014] [SEVERE ] updating countdown to 50000
+[18:51:02.029] [SEVERE ] updating countdown to 49000
+[18:51:03.033] [SEVERE ] updating countdown to 48000
+[18:51:04.048] [SEVERE ] updating countdown to 47000
+[18:51:04.392] [SEVERE ] exit button pressed
+[18:51:05.049] [SEVERE ] updating countdown to 46000
+[18:51:06.064] [SEVERE ] updating countdown to 45000
+[18:51:07.067] [SEVERE ] updating countdown to 44000
+[18:51:07.076] [SEVERE ] exit button pressed
+[18:51:08.067] [SEVERE ] updating countdown to 43000
+[18:51:09.069] [SEVERE ] updating countdown to 42000
+[18:51:10.080] [SEVERE ] updating countdown to 41000
+[18:51:11.084] [SEVERE ] updating countdown to 40000

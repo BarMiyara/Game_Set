@@ -1,0 +1,29 @@
+[13:10:21.822] [INFO   ] thread main starting.
+[13:10:21.835] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[13:10:21.838] [SEVERE ] configuration file was loaded from resources directory.
+[13:10:22.544] [INFO   ] thread dealer starting.
+[13:10:22.545] [INFO   ] thread dealer starting.
+[13:10:22.545] [INFO   ] thread player0Thread starting.
+[13:10:22.545] [INFO   ] thread player1Thread starting.
+[13:10:22.661] [SEVERE ] placing card 39 in slot 5
+[13:10:22.805] [SEVERE ] placing card 36 in slot 4
+[13:10:22.914] [SEVERE ] placing card 67 in slot 6
+[13:10:23.024] [SEVERE ] placing card 35 in slot 1
+[13:10:23.135] [SEVERE ] placing card 45 in slot 3
+[13:10:23.245] [SEVERE ] placing card 31 in slot 2
+[13:10:23.355] [SEVERE ] placing card 54 in slot 0
+[13:10:23.463] [SEVERE ] placing card 34 in slot 11
+[13:10:23.573] [SEVERE ] placing card 12 in slot 10
+[13:10:23.684] [SEVERE ] placing card 23 in slot 8
+[13:10:23.795] [SEVERE ] placing card 66 in slot 7
+[13:10:23.905] [SEVERE ] placing card 28 in slot 9
+[13:10:23.950] [SEVERE ] updating countdown to 10000
+[13:10:24.954] [SEVERE ] updating countdown to 9000
+[13:10:25.963] [SEVERE ] updating countdown to 8000
+[13:10:26.968] [SEVERE ] updating countdown to 7000
+[13:10:27.482] [SEVERE ] exit button pressed
+[13:10:27.483] [INFO   ] thread player1Thread terminated.
+[13:10:27.483] [INFO   ] thread player0Thread terminated.
+[13:10:27.484] [INFO   ] thread dealer terminated.
+[13:10:27.484] [SEVERE ] thanks for playing... it was fun!
+[13:10:27.485] [INFO   ] thread main terminated.

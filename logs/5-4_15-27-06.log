@@ -1,0 +1,67 @@
+[15:27:06.705] [INFO   ] thread main starting.
+[15:27:06.711] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[15:27:06.714] [SEVERE ] configuration file was loaded from resources directory.
+[15:27:07.577] [INFO   ] thread dealer starting.
+[15:27:07.578] [INFO   ] thread dealer starting.
+[15:27:07.578] [INFO   ] thread player0Thread starting.
+[15:27:07.578] [INFO   ] thread player1Thread starting.
+[15:27:07.692] [SEVERE ] placing card 46 in slot 8
+[15:27:07.800] [SEVERE ] placing card 65 in slot 10
+[15:27:07.909] [SEVERE ] placing card 21 in slot 1
+[15:27:08.018] [SEVERE ] placing card 39 in slot 11
+[15:27:08.128] [SEVERE ] placing card 55 in slot 7
+[15:27:08.238] [SEVERE ] placing card 6 in slot 6
+[15:27:08.350] [SEVERE ] placing card 60 in slot 0
+[15:27:08.462] [SEVERE ] placing card 71 in slot 4
+[15:27:08.572] [SEVERE ] placing card 11 in slot 9
+[15:27:08.683] [SEVERE ] placing card 79 in slot 3
+[15:27:08.792] [SEVERE ] placing card 44 in slot 5
+[15:27:08.903] [SEVERE ] placing card 70 in slot 2
+[15:27:08.924] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:08.926] [INFO   ] thread dealer terminated.
+[15:27:09.936] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:10.950] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:11.961] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:12.965] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:13.930] [SEVERE ] thanks for playing... it was fun!
+[15:27:13.930] [INFO   ] thread main terminated.
+[15:27:13.930] [SEVERE ] disposing of user interface elements
+[15:27:13.978] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:14.983] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:15.996] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:17.005] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:18.015] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:19.029] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:20.030] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:21.043] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:22.056] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:23.069] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:24.082] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:25.097] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:26.100] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:27.114] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:28.127] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:29.141] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:30.156] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:31.164] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:32.176] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:33.190] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:34.204] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:35.218] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:36.231] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:37.246] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:38.258] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:39.271] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:40.277] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:41.289] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:42.303] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:43.312] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:44.326] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:45.339] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:46.354] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:47.363] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:48.366] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:49.369] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:50.378] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:51.393] [SEVERE ] updating countdown to 9223372036854775807
+[15:27:52.406] [SEVERE ] updating countdown to 9223372036854775807
